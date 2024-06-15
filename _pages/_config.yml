@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Add your page directory
+collections:
+  pages:
+    output: true
